@@ -1,0 +1,3 @@
+Learning and working on Rust
+
+day to day track on concepts and small examples on each concepts.
